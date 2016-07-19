@@ -6,10 +6,11 @@
 name: The BITS Pilani Wiki Project
 
 # Short bio or description (displayed in the header)
-description: This project has been started with the single aim in mind, "To document and archive everything about BITS that was, that is and that will be." Bringing all content about BITS together and open for all to access anytime. The author simply wishes for knowledge to be available to all.
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#Insert picture using Markdown
+avatar: https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/BITS_Pilani-Logo.svg/1024px-BITS_Pilani-Logo.svg.png
 
 #
 # Flags below are optional
@@ -26,7 +27,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

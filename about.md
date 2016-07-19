@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This project has been started with the single aim in mind, "To document and archive everything about BITS that was, that is and that will be." Bringing all content about BITS together and open for all to access anytime. The author simply wishes for knowledge to be available to all.
+
+**We are working as fast as possible to update content.**
 
 ### Contact me
-
+Currently left blank intentionally.
 [email@domain.com](mailto:email@domain.com)
